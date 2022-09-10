@@ -41,4 +41,4 @@
              </li>
          <?php endforeach; $__env->popLoop(); $loop = $__env->getLastLoop(); ?>
      </ul>
- </div><?php /**PATH H:\laragon\www\laravel-tech5s\packages\vanhenry\manager\src/views/static/menu.blade.php ENDPATH**/ ?>
+ </div><?php /**PATH C:\laragon\www\campionPhone\packages\vanhenry\manager\src/views/static/menu.blade.php ENDPATH**/ ?>

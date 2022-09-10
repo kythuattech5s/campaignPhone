@@ -65,4 +65,4 @@
 		catch(ex){
 		}
 	}
-</script><?php /**PATH H:\laragon\www\laravel-tech5s\packages\vanhenry\manager\src/views/static/changepass.blade.php ENDPATH**/ ?>
+</script><?php /**PATH C:\laragon\www\campionPhone\packages\vanhenry\manager\src/views/static/changepass.blade.php ENDPATH**/ ?>

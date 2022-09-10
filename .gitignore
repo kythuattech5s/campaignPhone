@@ -5,7 +5,6 @@ storage/debugbar
 /vendor
 /.vscode
 sftp-config.json
-.env
 .phpunit.result.cache
 docker-compose.override.yml
 npm-debug.log

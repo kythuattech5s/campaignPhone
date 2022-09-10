@@ -50,4 +50,4 @@
     33.3333% {left: 0; width: 100%;z-index: 10;}
     to {left: 0; width: 100%;}
 }
-</style><?php /**PATH H:\laragon\www\laravel-tech5s\packages\vanhenry\manager\src/views/loading.blade.php ENDPATH**/ ?>
+</style><?php /**PATH C:\laragon\www\campionPhone\packages\vanhenry\manager\src/views/loading.blade.php ENDPATH**/ ?>

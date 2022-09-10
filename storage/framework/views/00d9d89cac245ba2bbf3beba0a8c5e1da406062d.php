@@ -51,4 +51,4 @@
           </div>
      </div>
 </div>
-<?php /**PATH H:\laragon\www\laravel-tech5s\packages\vanhenry\manager\src/views/static/header_main.blade.php ENDPATH**/ ?>
+<?php /**PATH C:\laragon\www\campionPhone\packages\vanhenry\manager\src/views/static/header_main.blade.php ENDPATH**/ ?>

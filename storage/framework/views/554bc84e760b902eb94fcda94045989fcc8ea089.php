@@ -89,4 +89,4 @@
     <?php echo $__env->make('vh::static.changepass', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
     <?php echo $__env->yieldContent('js'); ?>
 </body>
-<?php /**PATH H:\laragon\www\laravel-tech5s\packages\vanhenry\manager\src/views/master.blade.php ENDPATH**/ ?>
+<?php /**PATH C:\laragon\www\campionPhone\packages\vanhenry\manager\src/views/master.blade.php ENDPATH**/ ?>
