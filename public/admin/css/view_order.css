@@ -1,0 +1,124 @@
+#main_view_order .title{
+	font-size: 20px;
+    text-transform: uppercase;
+    font-family: robo;
+    font-size: 18px;
+    color: white!important;
+    background-color: #087990!important;
+    padding: 6px 12px;
+}
+#main_view_order .table-view-order,#main_view_order .table-view-order-customer{
+	width: 100%;
+	border: solid 1px #e1e1e1;
+	border-radius: 0;
+}
+#main_view_order .table-view-order th,#main_view_order .table-view-order td,#main_view_order .table-view-order-customer th,#main_view_order .table-view-order-customer td{
+	text-align: left;
+	padding: 5px 8px;
+}
+#main_view_order .table-view-order td:not(:last-child),#main_view_order .table-view-order-customer td:not(:last-child){
+	border-right: solid 1px #e1e1e1;
+}
+#main_view_order .table-view-order tbody tr:not(:last-child) td,#main_view_order .table-view-order-customer tbody tr:not(:last-child) td{
+	border-bottom: solid 1px #e1e1e1;
+}
+#main_view_order .table-view-order td:first-child{
+	background: #f9f9f9;
+	max-width: 80px;
+	font-weight: bold;
+}
+#main_view_order .table-view-order-customer th{
+	color: #f8f9fa!important;
+	background-color: #212529!important;
+}
+#main_view_order .table-view-order-customer th:not(:last-child){
+	border-right: solid 1px #f8f9fa!important;
+}
+#main_view_order .table-view-order .select-value,#main_view_order .table-view-order-customer .select-value{
+	display: block;
+	background: #ebebeb;
+	padding: 5px;
+	font-weight: bold;
+	border-radius: 5px;
+}
+#main_view_order .table-view-order-customer .status-success,#main_view_order .table-view-order-customer .status-faild{
+	padding: 5px 15px;
+	border-radius: 5px;
+	color: white;
+	display: block;
+}
+#main_view_order .table-view-order-customer .status-success{
+	background: #198754!important;
+}
+#main_view_order .table-view-order-customer .status-faild{
+	background: #dc3545!important
+}
+#main_view_order .total-info{
+	margin: 15px 0px;
+	padding: 8px 15px;
+	background: #f9f9f9;
+	box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.1);
+}
+#main_view_order .item-total{
+	font-size: 18px;
+}
+#main_view_order .item-total:not(:last-child){
+	margin-bottom: 8px;
+}
+#main_view_order .item-total span{
+	font-weight: bold;
+}
+#main_view_order .account-info{
+	display: flex;
+	margin: 15px 0px;
+}
+#main_view_order .account-info .img{
+	width: 92px;
+	height: 92px;
+	overflow: hidden;
+	box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.1);
+	border-radius: 5px;
+	padding: 5px;
+}
+#main_view_order .form-title{
+	font-family: Robob;
+    margin-bottom: 3px;
+}
+#main_view_order .account-info .img img{
+	width: 100%;
+}
+#main_view_order .account-info .content{
+	padding-left: 10px;
+	width: calc(100% - 92px);
+}
+.add-vip-account{
+	margin-top: 10px;
+	margin-bottom: 27px;
+}
+.add-vip-account button{
+	padding: 10px 25px;
+	background: #28a745;
+	font-size: 18px;
+	color: white;
+	border: solid 1px #28a745;
+	-webkit-transition: all 0.3s ease 0s;
+	-moz-transition: all 0.3s ease 0s;
+	-ms-transition: all 0.3s ease 0s;
+	-o-transition: all 0.3s ease 0s;
+	transition: all 0.3s ease 0s;
+}
+.add-vip-account button:hover{
+	background: white;
+	color: #28a745;
+}
+.add-vip-account button i{
+	margin-right: 6px;
+}
+#add-vip-modal .close{
+	color: #fff;
+}
+#add-vip-modal .modal-header{
+	color: #f8f9fa!important;
+	background-color: #343a40!important;
+	padding: 8px 15px;
+}

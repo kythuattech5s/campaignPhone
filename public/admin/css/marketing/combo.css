@@ -1,0 +1,244 @@
+.combo-group h4{
+    margin-bottom: 32px;
+    background: #263238;
+    color: white;
+    padding: 10px;
+}
+
+.combo-type{
+    gap: 16px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.combo-type__item label{
+    padding: 16px 40px;
+    border: 1px solid #f0f1f5;
+}
+
+.combo-type label{
+    position: relative;
+    cursor: pointer;
+}
+
+.combo-discount input.form-control{
+    padding: 0.875rem 1rem;
+    height: inherit;
+}
+
+.combo-discount__prefix{
+    border-left: 1px solid #f0f1f5;
+    padding: 0 16px;
+}
+
+.combo-discount button.btn,
+.combo-discount select,
+.combo-discount input
+{
+    border:none !important;
+}
+.combo-discount button.btn{
+    border-right: 1px solid #f0f1f5 !important;
+}
+.combo-discount{
+    border: 1px solid #f0f1f5;
+    display: flex;
+    align-items: center;
+    flex: 1;
+}
+
+.combo-limit,
+.combo-group__form .form-control{
+    flex: 1;
+}
+
+.combo-group__form p{
+    margin-bottom: initial;
+}
+
+.combo-group__form{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 32px;
+    align-items: center;
+}
+
+.combo-group__form label{
+    margin-bottom: initial;
+}
+
+.combo-group__form>label{
+    flex: 0 0 30%;
+    width: 30%;
+    max-width: 30%;
+    text-align: right;
+    padding-right: 30px;
+
+}
+
+.combo-group__form .combo-type,
+.combo-group__form .input,
+.combo-group__form .image,
+.combo-group__form .combo-code__form,
+.combo-group__form .combo-group-options,
+.combo-group__form .combo-datetime{
+    flex: 1;
+    max-width: 70%;
+}
+
+.combo-datetime{
+    display: flex;
+    gap: 16px;
+}
+
+.footer-form{
+    position: fixed;
+    bottom: 32px;
+    text-align: right;
+    right: 64px;
+}
+.align-items-baseline{
+    align-items: baseline;
+}
+
+.combo-group__item .combo-group-type label{
+    cursor: pointer;
+    position: relative;
+    margin-left: 20px;
+    font-weight: normal;
+}
+.combo-group__item .combo-group-type label::before{
+    content: '';
+    width: 16px;
+    height: 16px;
+    border: 1px solid #979797;
+    position: absolute;
+    top: 50%;
+    left: -20px;
+    transform: translateY(-50%);
+    border-radius: 100%;
+    transition: all 300ms;
+}
+
+.combo-group__item + .combo-group__item {
+    margin-top: 16px;
+}
+
+.combo-group__item .combo-group-type label:hover::before{
+    border: 1px solid rgb(240, 181, 18);
+}
+
+.combo-group__item .combo-group-type input:checked ~ label::before{
+    border: 2px solid orangered;
+}
+
+.combo-group__item input[type="radio"]{
+    display: none;
+}
+.combo-group__item .group-form input{
+    margin: 0 5px;
+}
+.combo-group__item .group-form{
+    margin: 10px 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.combo-group__item .group-form>input{
+    max-width: 50px;
+    border: 1px solid #e1e1e1;
+    padding: 5px;
+}
+
+.combo-group__item .group-form .group-small{
+    border: 1px solid  #e1e1e1;
+    margin: 0 10px;
+    min-width: 120px;
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+}
+.combo-group__item .group-form .group-small>input{
+    border: none;
+    max-width: 80px;
+    border-right: 1px solid  #e1e1e1;
+    margin-left: 0;
+    padding: 0;
+}
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 48px;
+    height: 24px;
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    border-radius:15px;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 18px;
+    width: 18px;
+    left: 5px;
+    bottom: 3px;
+    border-radius: 100%;
+    background-color: white;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+}
+
+input:checked + .slider {
+    background-color: #75f321;
+}
+
+input:focus + .slider {
+    box-shadow: 0 0 1px #75f321;
+}
+
+input:checked + .slider:before {
+    -webkit-transform: translateX(20px);
+    -ms-transform: translateX(20px);
+    transform: translateX(20px)
+}
+.action-item{
+    margin: 15px 0;
+}
+
+table tr td,
+table tr th{
+    vertical-align: middle !important;
+}
+
+table tr td img{
+    max-width: 50px;
+    height: 50px;
+}
+
+.note-type{
+    font-size: 14px;
+    color: #2e91e8;
+}
+
+.note-error{
+    font-size: 14;
+    color: rgb(255, 74, 74);
+}

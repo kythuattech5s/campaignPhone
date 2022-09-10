@@ -1,0 +1,1 @@
+<td data-title="{{$show->note}}" style="text-align:left">{{ strip_tags(FCHelper::ep($dataItem,$show->name))}}</td>

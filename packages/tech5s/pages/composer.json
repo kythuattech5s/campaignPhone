@@ -1,0 +1,31 @@
+{
+    "name": "tech5s/page-grapesjs",
+    "description": "Page GrapesJS Laravel",
+    "keywords": [
+        "laravel"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "roniejisa",
+            "email": "roniejisa@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tech5s\\PageGrapes\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Tech5s\\PageGrapes\\Providers\\PageGrapesServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "sort-packages": true
+    }
+}

@@ -1,0 +1,55 @@
+#modalProduct .modal-dialog{
+    width: 920px;
+}
+
+#modalProduct table tbody,
+#modalProduct table thead { display: block; }
+
+#modalProduct table tbody {
+    overflow-y: auto;
+    overflow-x: hidden;
+    max-height: 300px;
+}
+
+#modalProduct table tr {
+    display: flex;
+}
+
+#modalProduct table tr > th,
+#modalProduct table tr > td {
+    flex-grow: 1;
+    flex-basis: 0;
+}
+
+#modalProduct table tr > th:first-child,
+#modalProduct table tr > td:first-child {
+    flex: 0 0 10%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+#modalProduct .count-choose{
+    font-weight: bold;
+    margin: 0 5px;
+}
+
+#modalProduct td img{
+    max-width: 32px;
+    height: 32px;
+    margin-right: 10px;
+    object-fit: cover;
+}
+
+#modalProduct .form-search-item input,
+#modalProduct .form-search-item select{
+    width: 200px;
+    border: 1px solid #e1e1e1;
+    margin-left: 10px;
+    padding: 5px;
+}
+
+#modalProduct tr.disabled {
+    pointer-events: none;
+    background: #d6d6d6;
+}

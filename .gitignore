@@ -1,0 +1,13 @@
+/node_modules
+public/uploads
+/storage/logs/*
+storage/debugbar
+/vendor
+/.vscode
+sftp-config.json
+.env
+.phpunit.result.cache
+docker-compose.override.yml
+npm-debug.log
+yarn-error.log
+storage/*.key

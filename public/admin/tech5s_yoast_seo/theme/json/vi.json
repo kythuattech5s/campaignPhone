@@ -1,0 +1,311 @@
+{
+	"js-text-analysis": {
+		"": {},
+		"Edit snippet": {
+			"0": "Chỉnh sửa đoạn trích"
+		},
+		"SEO title": {
+			"0": "Tiêu đề SEO"
+		},
+		"Slug": {
+			"0": "Slug"
+		},
+		"Meta description": {
+			"0": "Mô tả meta"
+		},
+		"Close snippet editor": {
+			"0": "Đóng trình chỉnh sửa đoạn trích"
+		},
+		"Snippet preview": {
+			"0": "Xem trước đoạn trích"
+		},
+		"SEO title preview": {
+			"0": "Xem trước tiêu đề SEO"
+		},
+		"Slug preview": {
+			"0": "Xem trước slug"
+		},
+		"Meta description preview": {
+			"0": "Xem trước mô tả meta"
+		},
+		"You can click on each element in the preview to jump to the Snippet Editor.": {
+			"0": "Bạn có thể nhấp vào từng thành phần trong bản xem trước để chuyển đến Trình chỉnh sửa đoạn trích."
+		},
+		"Desktop preview": {
+			"0": "Xem trước màn hình"
+		},
+		"Mobile preview": {
+			"0": "Xem trước điện thoại"
+		},
+		"Scroll to see the preview content.": {
+			"0": "Cuộn để xem nội dung xem trước."
+		},
+		"Please provide an SEO title by editing the snippet below.": {
+			"0": "Vui lòng cung cấp một tiêu đề SEO bằng cách chỉnh sửa đoạn trích dưới đây."
+		},
+		"Please provide a meta description by editing the snippet below.": {
+			"0": "Vui lòng cung cấp mô tả meta bằng cách chỉnh sửa đoạn trích bên dưới."
+		},
+		"Good job!": {
+			"0": "Làm tốt lắm!"
+		},
+		"very easy": {
+			"0": "rất dễ"
+		},
+		"easy": {
+			"0": "dễ dàng"
+		},
+		"fairly easy": {
+			"0": "khá dễ"
+		},
+		"ok": {
+			"0": "đồng ý"
+		},
+		"fairly difficult": {
+			"0": "khá khó khăn"
+		},
+		"difficult": {
+			"0": "khó khăn"
+		},
+		"Try to make shorter sentences, using less difficult words to improve readability": {
+			"0": "Cố gắng đặt câu ngắn hơn, sử dụng các từ ít khó hơn để cải thiện khả năng đọc"
+		},
+		"very difficult": {
+			"0": "rất khó"
+		},
+		"Content optimization": {
+			"0": "Tối ưu hóa nội dung"
+		},
+		"Feedback": {
+			"0": "Phản hồi"
+		},
+		"Has feedback": {
+			"0": "Có phản hồi"
+		},
+		"Needs improvement": {
+			"0": "Cần cải thiện"
+		},
+		"Marks are disabled in current view": {
+			"0": "Các nhãn hiệu bị vô hiệu hóa trong chế độ xem hiện tại"
+		},
+		"Mark this result in the text": {
+			"0": "Đánh dấu kết quả này trong văn bản"
+		},
+		"Remove marks in the text": {
+			"0": "Remove marks in the text"
+		},
+		"%1$sParagraph length %2$s: None of the paragraphs are too long. Great job!": {
+			"0": "%1$s Độ dài đoạn %2$s: Không có đoạn nào quá dài. Bạn đã làm rất tốt!"
+		},
+		"%1$sPassive voice %2$s: You're using enough active voice. That's great!": {
+			"0": "%1$s Giọng nói thụ động %2$s: Bạn đang sử dụng đủ giọng nói hoạt động. Thật tuyệt!"
+		},
+		"%1$sPassive voice %2$s: %3$s of the sentences contain passive voice, which is more than the recommended maximum of %4$s. 5$sTry to use their active counterparts%2$s": {
+			"0": "%1$s Giọng nói thụ động %2$s: %3$s trong số các câu chứa giọng nói thụ động, nhiều hơn mức tối đa được đề xuất là %4$s. %5$s Hãy thử sử dụng các đối tác hoạt động của họ %2$s"
+		},
+		"%1$sConsecutive sentences%2$s: There is enough variety in your sentences. That's great!": {
+			"0": "%1$s Câu liên tiếp %2$s: Có đủ sự đa dạng trong câu của bạn. Thật tuyệt!"
+		},
+		"The meta description contains no sentences %1$sover %2$s words%3$s": {
+			"0": "Mô tả meta không chứa câu %1$s kết thúc %2$s từ ngữ %3$s"
+		},
+		"%1$sSentence length%2$s: Great!": {
+			"0": "%1$s Chiều dài câu %2$s: Tuyệt vời!"
+		},
+		"%1$sSentence length%2$s: %3$s of the sentences contain more than %4$s words, which is more than the recommended maximum of %5$s. %6$sTry to shorten the sentences%2$s.": {
+			"0": "%1$s chiều dài câu %2$s: %3$s trong số các câu chứa nhiều hơn %4$s từ, nhiều hơn mức tối đa được đề xuất là %5$s. % 6$sTry để rút ngắn các câu  %2$s."
+		},
+		"%1$sSubheading distribution%2$s: Great job!": {
+			"0": "%1$s Phân phối tiêu đề %2$s: Tuyệt vời!"
+		},
+		"%1$sSubheading distribution%2$s: You are not using any subheadings, although your text is rather long. %3$sTry and add some subheadings%2$s.": {
+			"0": "%1$s Phân phối tiêu đề %2$s: Bạn không sử dụng bất kỳ tiêu đề phụ nào, mặc dù văn bản của bạn khá dài.  %3$s Thử và thêm một số tiêu đề phụ %2$s."
+		},
+		"%1$sSubheading distribution%2$s: You are not using any subheadings, but your text is short enough and probably doesn't need them.": {
+			"0": "%1$s Phân phối tiêu đề %2$s: Bạn không sử dụng bất kỳ tiêu đề phụ nào, nhưng văn bản của bạn đủ ngắn  và có thể không cần chúng."
+		},
+		"%1$sNot enough content%2$s: %3$sPlease add some content to enable a good analysis%2$s.": {
+			"0": "%1$s Không đủ nội dung %2$s: %3$s Vui lòng thêm một số nội dung để cho phép phân tích tốt %2$s."
+		},
+		"%1$sTransition words%2$s: None of the sentences contain transition words. %3$sUse some%2$s.": {
+			"0": "%1$s Từ chuyển tiếp s %2$s: Không có câu nào chứa từ chuyển tiếp.  %3$s Sử dụng một số %2$s."
+		},
+		"%1$sTransition words%2$s: Only %3$s of the sentences contain transition words, which is not enough. %4$sUse more of them%2$s.": {
+			"0": "%1$s Từ chuyển tiếp s%2$s: Chỉ %3$s trong số các câu có chứa các từ chuyển tiếp, không đủ. %4$s Sử dụng nhiều hơn trong số họ %2$s."
+		},
+		"%1$sTransition words%2$s: Well done!": {
+			"0": "%1$s Từ chuyển tiếp s%2$s: Tốt lắm!"
+		},
+		"%1$s of the words contain %2$sover %3$s syllables%4$s, which is less than or equal to the recommended maximum of %5$s.": {
+			"0": "%1$s của các từ chứa %2$s kết thúc %3$s âm tiết %4$s,  nhỏ hơn hoặc bằng mức tối đa được đề xuất là %5$s."
+		},
+		"%1$s of the words contain %2$sover %3$s syllables%4$s, which is more than the recommended maximum of %5$s.": {
+			"0": "%1$s của các từ chứa %2$s kết thúc %3$s âm tiết %4$s,  nhiều hơn mức tối đa được đề xuất là %5$s."
+		},
+		"%1$sFunction words in keyphrase%3$s: Your keyphrase \"%4$s\" contains function words only. %2$sLearn more about what makes a good keyphrase.%3$s": {
+			"0": "%1$s Các từ khóa trong cụm từ khóa %3$s:  Cụm từ khóa của bạn \"%4$s\" chỉ chứa các từ chức năng.  %2$s Tìm hiểu thêm về những gì tạo ra một cụm từ khóa tốt. %3$s"
+		},
+		"%1$sInternal links%3$s: No internal links appear in this page, %2$smake sure to add some%3$s!": {
+			"0": "%1$s Liên kết nội bộ %3$s:  Không có liên kết nội bộ nào xuất hiện trong trang này, %2$smake chắc chắn sẽ thêm một số %3$s!"
+		},
+		"%1$sInternal links%3$s: The internal links in this page are all nofollowed. %2$sAdd some good internal links%3$s.": {
+			"0": "%1$s Liên kết nội bộ %3$s:  Các liên kết nội bộ trong trang này đều được theo dõi.  %2$s Thêm một số liên kết nội bộ tốt %3$s."
+		},
+		"%1$sInternal links%2$s: You have enough internal links. Good job!": {
+			"0": "%1$s Liên kết nội bộ %2$s: Bạn có đủ các liên kết nội bộ. Làm tốt lắm!"
+		},
+		"%1$sInternal links%2$s: There are both nofollowed and normal internal links on this page. Good job!": {
+			"0": "%1$s Liên kết nội bộ %2$s: Có cả liên kết nội bộ được theo dõi và thông thường trên trang này. Làm tốt lắm!"
+		},
+		"%1$sKeyphrase in introduction%2$s: Well done!": {
+			"0": "%1$s phân phối Cụm từ khoá trong phần giới thiệu %2$s: Tốt lắm!"
+		},
+		"%1$sKeyphrase in introduction%3$s:Your keyphrase or its synonyms appear in the first paragraph of the copy, but not within one sentence. %2$sFix that%3$s!": {
+			"0": "%1$s phân phối Cụm từ khóa trong phần giới thiệu %3$s:  Cụm từ khóa hoặc từ đồng nghĩa của nó xuất hiện trong đoạn đầu tiên của bản sao, nhưng không nằm trong một câu.  %2$s mà sửa chữa %3$s!"
+		},
+		"%1$sKeyphrase in introduction%3$s: Your keyphrase or its synonyms do not appear in the first paragraph. %2$sMake sure the topic is clear immediately%3$s.": {
+			"0": "%1$s phân phối cụm từ khóa trong phần giới thiệu %3$s: Cụm từ khóa hoặc từ đồng nghĩa của nó không xuất hiện trong đoạn đầu tiên.  %2$s Hãy chắc chắn rằng chủ đề rõ ràng ngay lập tức %3$s."
+		},
+		"%1$sKeyphrase distribution%3$s: %2$sInclude your keyphrase or its synonyms in the text so that we can check keyphrase distribution%3$s.": {
+			"0": "%1$ phân phối cụm từ khóa %3$s:  %2$s Bao gồm cụm từ khóa hoặc từ đồng nghĩa của nó trong văn bản để chúng tôi có thể kiểm tra phân phối cụm từ khóa %3$s."
+		},
+		"%1$sKeyphrase distribution%3$s: Very uneven. Large parts of your text do not contain the keyphrase or its synonyms. %2$sDistribute them more evenly%3$s.": {
+			"0": "%1$s phân phối cụm từ khóa %3$s:  Rất không đồng đều. Phần lớn văn bản của bạn không chứa cụm từ khóa hoặc từ đồng nghĩa của nó.  %2$s Phân phối chúng đều hơn %3$s."
+		},
+		"%1$sKeyphrase distribution%3$s: Uneven. Some parts of your text do not contain the keyphrase or its synonyms. %2$sDistribute them more evenly%3$s.": {
+			"0": "%1$s phân phối cụm từ khóa %3$s:  Không đồng đều. Một số phần trong văn bản của bạn không chứa cụm từ khóa hoặc từ đồng nghĩa của nó.  %2$s Phân phối chúng đều hơn %3$s."
+		},
+		"%1$sKeyphrase distribution%2$s: Good job!": {
+			"0": "%1$s phân phối cụm từ khóa %2$s: Làm tốt lắm!"
+		},
+		"%1$sKeyphrase length%3$s: %2$sSet a keyphrase in order to calculate your SEO score%3$s.": {
+			"0": "%1$s Độ dài cụm từ khóa %3$s:  %2$s Đặt một cụm từ khóa để tính điểm SEO của bạn %3$s"
+		},
+		"%1$sKeyphrase length%3$s: No focus keyphrase was set for this page. %2$sSet a keyphrase in order to calculate your SEO score%3$s.": {
+			"0": "%1$s Độ dài cụm từ khóa %3$s: Không có cụm từ khóa tiêu điểm nào được đặt cho trang này.  %2$s Đặt cụm từ khóa để tính điểm SEO của bạn %3$s"
+		},
+		"%1$sKeyphrase length%2$s: Good job!": {
+			"0": "%1$s Độ dài cụm từ khóa %2$s: Làm tốt lắm!"
+		},
+		"%3$sKeyphrase length%5$s: The keyphrase is %1$d words long. That's more than the recommended maximum of %2$d words. %4$sMake it shorter%5$s!": {
+			"0": " %3$s Độ dài cụm từ khóa %5$s: Cụm từ khóa là %1$d từ dài. Đó là nhiều hơn mức tối đa được đề xuất là %2$d từ. %4$s Làm cho nó ngắn hơn %5$s!"
+		},
+		"%3$sKeyphrase length%5$s: The keyphrase is %1$d words long. That's way more than the recommended maximum of %2$d words. %4$sMake it shorter%5$s!": {
+			"0": " %3$s Độ dài cụm từ khóa %5$s: Cụm từ khóa là %1$d từ dài. Đó là cách nhiều hơn mức tối đa được đề xuất là %2$d từ. %4$s Làm cho nó ngắn hơn %5$s!"
+		},
+		"%1$sKeyphrase density%2$s: The focus keyphrase was found 0 times. That's less than the recommended minimum of %3$d times for a text of this length. %4$sFocus on your keyphrase%2$s!": {
+			"0": "%1$s mật độ cụm từ khóa %2$s: Cụm từ khóa tiêu điểm được tìm thấy 0 lần.  Đó là ít hơn mức tối thiểu được đề xuất là %3$d lần cho một văn bản có độ dài này. %4s Tiêu điểm trên cụm từ khóa của bạn %2$s!"
+		},
+		"%1$sKeyphrase in meta description%2$s: Keyphrase or synonym appear in the meta description. Well done!": {
+			"0": "%1$s cụm từ khóa trong mô tả meta %2$s: Cụm từ khóa hoặc từ đồng nghĩa xuất hiện trong mô tả meta. Làm tốt!"
+		},
+		"%1$sKeyphrase in meta description%2$s: The meta description contains the keyphrase %3$s times, which is over the advised maximum of 2 times. %4$sLimit that%5$s!": {
+			"0": "%1$s cụm từ khóa trong mô tả meta %2$s: Mô tả meta chứa cụm từ khóa %3$s lần,  vượt quá mức tối đa được khuyên là 2 lần. %4$s Hạn chế điều đó %5$s!"
+		},
+		"%1$sKeyphrase in meta description%2$s: The meta description has been specified, but it does not contain the keyphrase. %3$sFix that%4$s!t": {
+			"0": "%1$s cụm từ khóa trong mô tả meta %2$s: Mô tả meta đã được chỉ định,  nhưng nó không chứa cụm từ khóa.  %3$s Khắc phục điều đó %4$s!"
+		},
+		"%1$sMeta description length%3$s:  No meta description has been specified. Search engines will display copy from the page instead. %2$sMake sure to write one%3$s!": {
+			"0": "%1$s Độ dài mô tả Meta  %3$s: Không có mô tả meta nào được chỉ định.  Công cụ tìm kiếm sẽ hiển thị bản sao từ trang thay thế.  %2$s Hãy chắc chắn viết một %3$s!"
+		},
+		"%1$sMeta description length%3$s: The meta description is too short (under %4$d characters). Up to %5$d characters are available. %2$sUse the space%3$s!": {
+			"0": "%1$sMeta độ dài mô tả %3$s: Mô tả meta quá ngắn (dưới %4$d ký tự).  Tối đa %5$d ký tự có sẵn.  %2$s Sử dụng không gian %3$s!"
+		},
+		"%1$sMeta description length%3$s: The meta description is over %4$d characters. To ensure the entire description will be visible, %2$syou should reduce the length%3$s!": {
+			"0": "%1$s độ dài mô tả Meta %3$s: Mô tả meta vượt quá %4$d ký tự.  Để đảm bảo toàn bộ mô tả sẽ hiển thị, %2$s bạn nên giảm độ dài %3$s!"
+		},
+		"%1$sMeta description length%2$s: Well done!t": {
+			"0": "%1$s độ dài mô tả Meta %2$s: Tốt lắm!"
+		},
+		"%1$sOutbound links %3$s: No outbound links appear in this page. %2$sAdd some%3$s!": {
+			"0": "%1$s Liên kết ngoài %3$s:  Không có liên kết ngoài nào xuất hiện trong trang này.  %2$s Thêm một số %3$s!"
+		},
+		"%1$sOutbound links%3$s: All outbound links on this page are nofollowed. %2$sAdd some normal links%3$s.": {
+			"0": "%1$s Liên kết ngoài %3$s:  Tất cả các liên kết ngoài trên trang này đều không được theo dõi.  %2$s Thêm một số liên kết bình thường %3$s."
+		},
+		"%1$sOutbound links%2$s: Good job!": {
+			"0": "%1$s Liên kết ngoài  %2$s:  Tốt lắm!"
+		},
+		"%1$sOutbound links%2$s: There are both nofollowed and normal outbound links on this page. Good job!": {
+			"0": "%1$s Liên kết ngoài %2$s:  Có cả liên kết ngoài được theo dõi và bình thường trên trang này.  Làm tốt lắm!"
+		},
+		"%1$sSEO title width%3$s: The SEO title is too short. %2$sUse the space to add keyphrase variations or create compelling call-to-action copy%3$s.": {
+			"0": "%1$s SEO Độ rộng tiêu đề  %3$s: Tiêu đề SEO quá ngắn.  %2$s Sử dụng khoảng trắng để thêm các biến thể cụm từ khóa hoặc tạo bản sao gọi hành động hấp dẫn %3$s."
+		},
+		"%1$sSEO title width%2$s: Good job!": {
+			"0": "%1$s SEO Độ rộng tiêu đề %2$s: Làm tốt lắm!"
+		},
+		"%1$sSEO title width%3$s: The SEO title is wider than the viewable limit. %2$sTry to make it shorter%3$s.": {
+			"0": "%1$s SEO Độ rộng tiêu đề  %3$s: Tiêu đề SEO rộng hơn giới hạn có thể xem được.  %2$s Cố gắng làm cho nó ngắn hơn %3$s."
+		},
+		"%1$sSEO title width%3$s: %2$sPlease create an SEO title%3$s.": {
+			"0": "%1$s SEO Độ rộng tiêu đề  %3$s: %2$s Vui lòng tạo tiêu đề SEO %3$s."
+		},
+		"%1$sSingle title%3$s: H1s should only be used as your main title. Find all H1s in your text that aren't your main title and %2$schange them to a lower heading level%3$s!": {
+			"0": "%1$s Tiêu đề duy nhất %3$s: H1 chỉ nên được sử dụng làm tiêu đề chính của bạn. Tìm tất cả các H1 trong văn bản của bạn  không phải là tiêu đề chính của bạn và %2$s đổi chúng thành cấp tiêu đề thấp hơn %3$s!"
+		},
+		"%1$sKeyphrase in subheading%3$s: %2$sUse more keyphrases or synonyms in your higher-level subheadings%3$s!": {
+			"0": "%1$s Cụm từ khóa trong phân nhóm phụ %3$s: %2$s Sử dụng nhiều cụm từ khóa hoặc từ đồng nghĩa hơn trong các tiêu đề phụ cấp cao hơn %3$s!"
+		},
+		"%1$sKeyphrase in subheading%3$s: More than 75%% of your higher-level subheadings reflect the topic of your copy. That's too much. %2$sDon't over-optimize%3$s!": {
+			"0": "%1$s Cụm từ khóa trong phân nhóm phụ %3$s: Hơn 75 %% tiêu đề cấp cao hơn của bạn phản ánh chủ đề của bản sao của bạn.  Đó là quá nhiều.  %2$sKhông tối ưu hóa quá mức %3$s!"
+		},
+		"%1$sKeyphrase in subheading%2$s: Your higher-level subheading reflects the topic of your copy. Good job!": {
+			"0": "%1$s Cụm từ khóa trong phân nhóm phụ %2$s: Phân nhóm cấp cao hơn của bạn phản ánh chủ đề của bản sao của bạn. Làm tốt lắm!"
+		},
+		"%1$sLink keyphrase%3$s: You're linking to another page with the words you want this page to rank for. %2$sDon't do that%3$s!": {
+			"0": "%1$s Liên kết cụm từ khóa %3$s:  Bạn đang liên kết đến một trang khác với các từ bạn muốn trang này xếp hạng.  %2$s Đừng làm điều đó %3$s!"
+		},
+		"%1$sImage alt attributes%3$s: No images appear on this page. %2$sAdd some%3$s!": {
+			"0": "%1$s thuộc tính alt hình ảnh  %3$s: Không có hình ảnh xuất hiện trên trang này. %2$s Thêm một số %3$s!"
+		},
+		"%1$sImage alt attributes%3$s: Images on this page have alt attributes, but you have not set your keyphrase. %2$sFix that%3$s!": {
+			"0": "%1$s thuộc tính alt hình ảnh %3$s:  Hình ảnh trên trang này có thuộc tính alt, nhưng bạn chưa đặt cụm từ khóa của mình. %2$s Khắc phục điều đó %3$s!"
+		},
+		"%1$sImage alt attributes%3$s: Images on this page do not have alt attributes that reflect the topic of your text. %2$sAdd your keyphrase or synonyms to the alt tags of relevant images%3$s!": {
+			"0": "%1$s thuộc tính alt hình ảnh  %3$s:  Hình ảnh trên trang này không có thuộc tính alt phản ánh chủ đề của văn bản của bạn.  %2$s Thêm cụm từ khóa hoặc từ đồng nghĩa của bạn vào thẻ alt của hình ảnh có liên quan %3$s!"
+		},
+		"%1$sImage alt attributes%2$s: Good job!": {
+			"0": "%1$s thuộc tính alt hình ảnh  %2$s: Làm tốt lắm!"
+		},
+		"%3$sImage alt attributes%5$s: Out of %2$d images on this page, %1$d have alt attributes with words from your keyphrase or synonyms. That's a bit much. %4$sOnly include the keyphrase or its synonyms when it really fits the image%5$s.": {
+			"0": " %3$s thuộc tính alt hình ảnh  %5$s: Trong số %2$d hình ảnh trên trang này, %1$d có thuộc tính alt với các từ  từ cụm từ khóa hoặc từ đồng nghĩa của bạn.  Đó là một chút nhiều. %4$s Chỉ bao gồm cụm từ khóa hoặc từ đồng nghĩa của nó khi nó thực sự phù hợp với hình ảnh %5$s."
+		},
+		"%1$sKeyphrase in title%2$s: The exact match of the keyphrase appears at the beginning of the SEO title. Good job!": {
+			"0": "%1$s Cụm từ khóa trong tiêu đề %2$s: Kết hợp chính xác của cụm từ khóa xuất hiện ở đầu  của tiêu đề SEO. Làm tốt lắm!"
+		},
+		"%1$sKeyphrase in title%3$s: The exact match of the keyphrase appears in the SEO title, but not at the beginning. %2$sTry to move it to the beginning%3$s.": {
+			"0": "%1$s Cụm từ khóa trong tiêu đề %3$s: Kết hợp chính xác của cụm từ khóa xuất hiện trong tiêu đề SEO, nhưng không phải là  ở đầu. %2$s Cố gắng di chuyển nó từ đầu %3$s."
+		},
+		"%1$sKeyphrase in title%3$s: Does not contain the exact match. %2$sTry to write the exact match of your keyphrase in the SEO title%3$s.": {
+			"0": "%1$s Cụm từ khóa trong tiêu đề %3$s: Không chứa kết quả khớp chính xác.  %2$s Cố gắng viết chính xác của  cụm từ khóa của bạn trong tiêu đề SEO %3$s."
+		},
+		"%1$sKeyphrase in title%3$s: Not all the words from your keyphrase \"%4$s\" appear in the SEO title. %2$sTry to use the exact match of your keyphrase in the SEO title%3$s.": {
+			"0": "%1$s Cụm từ khóa trong tiêu đề %3$s: Không phải tất cả các từ trong cụm từ khóa của bạn \"%4$s\" đều xuất hiện trong tiêu đề SEO.  %2$s Cố gắng sử dụng kết hợp chính xác cụm từ khóa của bạn trong tiêu đề SEO %3$s."
+		},
+		"%1$sKeyphrase in slug%2$s: Great work!": {
+			"0": "%1$s Cụm từ khóa trong slug %2$s: Công việc tuyệt vời!"
+		},
+		"%1$sKeyphrase in slug%3$s: (Part of) your keyphrase does not appear in the slug. %2$sChange that%3$s!": {
+			"0": "%1$s Cụm từ khóa trong slug %3$s: (Một phần) cụm từ khóa của bạn không xuất hiện trong slug. %2$s thay đổi mà %3$s!"
+		},
+		"%1$sKeyphrase in slug%2$s: More than half of your keyphrase appears in the slug. That's great!": {
+			"0": "%1$s Cụm từ khóa trong slug %2$s: Hơn một nửa cụm từ khóa của bạn xuất hiện trong slug. Thật tuyệt!"
+		},
+		"%1$sSlug too long%3$s: the slug for this page is a bit long. %2$sShorten it%3$s!": {
+			"0": "%1$s Slug quá dài %3$s: slug cho trang này hơi dài.  %2$s Rút ngắn nó  %3$s!"
+		},
+		"%1$sPreviously used keyphrase%2$s: You've not used this keyphrase before, very good.": {
+			"0": "%1$s Rõ ràng đã sử dụng cụm từ khóa %2$s: Trước đây bạn chưa sử dụng cụm từ khóa này, rất tốt."
+		},
+		"%3$sPreviously used keyphrase%5$s: You've used this keyphrase %1$sonce before%2$s. %4$sDo not use your keyphrase more than once%5$s.": {
+			"0": " %3$s Rõ ràng đã sử dụng cụm từ khóa %5$s:  Bạn đã sử dụng cụm từ khóa này %1$s từ trước %2$s. %4$s Không sử dụng cụm từ khóa của bạn nhiều lần %5$s."
+		},
+		"%4$sPreviously used keyphrase%6$s: You've used this keyphrase %1$s%2$d times before%3$s. %5$sDo not use your keyphrase more than once%6$s.": {
+			"0": "%4$s Rõ ràng đã sử dụng cụm từ khóa% 6$s:  Bạn đã sử dụng cụm từ khóa này %1$s %2$d lần trước %3$s.  %5$s không sử dụng cụm từ khóa của bạn nhiều hơn một lần% 6$s."
+		},
+		"An error occurred in the '%1$s' assessment": {
+			"0": "Đã xảy ra lỗi trong đánh giá '%1$s'"
+		}
+	}
+}

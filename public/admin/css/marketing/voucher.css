@@ -1,0 +1,441 @@
+.voucher-group h4{
+    margin-bottom: 32px;
+    background: #263238;
+    color: white;
+    padding: 10px;
+}
+
+.voucher-type{
+    gap: 16px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.voucher-type__item label{
+    padding: 16px 40px;
+    border: 1px solid #f0f1f5;
+}
+
+.voucher-type label{
+    position: relative;
+    cursor: pointer;
+}
+
+.voucher-type input ~ label:before{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-width: 20px 20px;
+    border-color:#6418c3 #892bff transparent transparent;
+    border-style: solid;
+    filter: grayscale(1);
+}
+
+.voucher-type input ~ label:after{
+    content: '';
+    position: absolute;
+    top: 2px;
+    right: 10px;
+    transform: rotate(45deg);
+    width: 8px;
+    height: 14px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    filter: grayscale(1);
+}
+.voucher-type input:checked ~ label{
+    box-shadow: 0px 0px 20px 5px #f0f1f5;
+}
+
+.voucher-type input:checked ~ label:after,
+.voucher-type input:checked ~ label:before{
+    filter: inherit;
+}
+
+.voucher-type input{
+    display: none;
+}
+
+.voucher-saleBy{
+    display: flex;
+    align-items: center;
+}
+.voucher-saleBy__item + .voucher-saleBy__item{
+    margin-left: 32px;
+}
+
+.voucher-max,
+.voucher-code__input {
+    display: flex;
+    align-items: center;
+    border: 1px solid #f0f1f5;
+    flex: 1;
+}
+.voucher-max .form-control,
+.voucher-code__input .form-control{
+    border: none;
+}
+
+.voucher-max__prefix,
+.voucher-code__prefix{
+    padding: 0 16px;
+    border-right: 1px solid #f0f1f5;
+}
+
+.voucher-discount input.form-control{
+    padding: 0.875rem 1rem;
+    height: inherit;
+}
+
+.voucher-discount__prefix{
+    border-left: 1px solid #f0f1f5;
+    padding: 0 16px;
+}
+
+.voucher-discount button.btn,
+.voucher-discount select,
+.voucher-discount input
+{
+    border:none !important;
+}
+.voucher-discount button.btn{
+    border-right: 1px solid #f0f1f5 !important;
+}
+.voucher-discount{
+    border: 1px solid #f0f1f5;
+    display: flex;
+    align-items: center;
+    flex: 1;
+}
+.voucher-image img{
+    max-width: 200px;
+}
+#voucher-image{
+    display: none;
+}
+.voucher-limit,
+.voucher-group__form .form-control{
+    flex: 1;
+}
+
+.voucher-group__form p{
+    margin-bottom: initial;
+}
+
+.voucher-group__form{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 32px;
+    align-items: center;
+}
+.voucher-group__form label img{
+    margin-right: 12px;
+}
+.voucher-code__suffix{
+    padding: 0 16px;
+    border-left: 1px solid #f0f1f5;
+}
+.voucher-group__form label{
+    margin-bottom: initial;
+}
+
+.voucher-group__form>label{
+    flex: 0 0 30%;
+    width: 30%;
+    max-width: 30%;
+    text-align: right;
+    padding-right: 30px;
+
+}
+
+.voucher-group__form .voucher-type,
+.voucher-group__form .input,
+.voucher-group__form .image,
+.voucher-group__form .voucher-code__form,
+.voucher-group__form .voucher-datetime{
+    flex: 1;
+    max-width: 70%;
+}
+
+.voucher-thumb img{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    inset: 0;
+}
+.voucher-thumb{
+    width: 100%;
+    position: relative;
+    padding-bottom: 100%;
+}
+
+.voucher-datetime{
+    display: flex;
+    gap: 16px;
+}
+
+.choose-coin{
+    flex: 1;
+}
+
+.choose-coin__type{
+    display: flex;
+    margin-bottom: 6px;
+}
+
+.choose-coin__item + .choose-coin__item{
+    margin-left: 32px;
+}
+
+.input-refund-limit input{
+    border: none;
+}
+.limit-prefix{
+    padding: 0 16px;
+    border-left:1px solid #f0f1f5;
+}
+.input-refund-limit{
+    display: flex;
+    align-items: center;
+    border: 1px solid #f0f1f5;
+}
+
+.footer-form button {
+    width: 180px;
+    background: #389dac;
+}
+
+.form.form-validate{
+    position: relative;
+}
+
+.footer-form{
+    position: fixed;
+    bottom: 32px;
+    text-align: right;
+    right: 64px;
+}
+
+.item-product{
+    flex-grow: 1;
+    flex-basis: 0%;
+}
+
+.item-product table{
+    table-layout: fixed;
+    width: 100%;
+}
+
+.item-product table{
+    table-layout: fixed;
+    width: 100%;
+}
+
+.item-product table tr {
+    display: flex;
+}
+
+.item-product table tr > th,
+.item-product table tr > td {
+    flex-grow: 1;
+    flex-basis: 0;
+}
+
+.item-product table tr > th:last-child,
+.item-product table tr > td:last-child {
+    flex: 0 0 10%;
+}
+
+.item-product table img{
+    height: 42px;
+    max-width: 42px;
+    object-fit: contain;
+}
+
+.align-items-baseline{
+    align-items: baseline;
+}
+
+.no-edit{
+    opacity: 0.5;
+    cursor: no-drop !important;
+}
+
+/* VoucherModal */
+#voucher--box .modal-body{
+    padding: inherit;
+}
+.voucher--box__form{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 25px;
+    background: #ebebeb;
+    margin-bottom: 20px;
+}
+
+#voucher--box .btn-secondary{
+    background: #3f3f3f;
+    border: 1px solid #3f3f3f;
+}
+
+#voucher--box .btn-secondary,
+#voucher--box .btn-red__all,
+.voucher--box__form button.btn-red__all{
+    border-radius: 5px;
+}
+
+.voucher--box__form span{
+    font-size: 14px;
+}
+.voucher--box__form input{
+    border: 1px solid #717171;
+    border-radius: 5px;
+    height: 40px;
+}
+
+.voucher--box__list {
+    max-height: 60vh;
+    overflow-y: scroll;
+    padding: 0 1rem;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.voucher--box__list::-webkit-scrollbar{
+    width: 8px;
+}
+
+.voucher--box__list::-webkit-scrollbar-thumb{
+    background-color: #ed1c24;
+    border-radius: 5px;
+}
+
+.voucher--box__list--item{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ebebeb;
+    margin-bottom: 15px;
+    cursor: pointer;
+    transition: all 200ms;
+    border-radius: 5px;
+    position: relative;
+}
+
+.voucher--box__list--item input{
+    display: none;
+}
+
+.voucher--box__list--item span.voucher--box__tag-checked{
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 25px solid transparent;
+    border-bottom: 25px solid transparent;
+    border-left: 25px solid transparent;
+    transition: all 200ms;
+}
+
+.voucher--box__list--item input:checked~span.voucher--box__tag-checked::before{
+    content: '';
+    width: 18px;
+    height: 10px;
+    border: 2px solid white;
+    border-top: 2px solid transparent;
+    border-right: 2px solid transparent;
+    background: transparent;
+    position: absolute;
+    z-index: 10;
+    left: 1px;
+    top: -18px;
+    transform: rotate(-39deg);
+}
+
+.voucher--box__list--item input:checked~span.voucher--box__tag-checked{
+    border-top: 25px solid #ed1c24;
+    border-right: 25px solid #cf0007;
+    border-bottom: 25px solid transparent;
+    border-left: 25px solid transparent;
+}
+
+.voucher--box__list--item:hover{
+    background: rgb(186, 20, 26,0.05);
+}
+
+.voucher--box__list--item img{
+    width: 135px;
+    height: 135px;
+    margin-right: 20px;
+}
+
+.voucher--item__content{
+    flex: 1;
+}
+
+.voucher--item__condition{
+    float: right;
+    margin-top: 0.5rem;
+    color: #ed1c24;
+    font-size: 14px;
+}
+
+.voucher--item__discount{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: 12px;
+    color: #ed1c24;
+    margin: 5px 0;
+}
+.voucher--item__discount .min{
+    padding:0 3px;
+    line-height: 20px;
+    border: 1px solid #ed1c24;
+
+}
+.voucher--item__discount .max{
+    padding:0 3px;
+    line-height: 20px;
+    border: 1px solid#ed1c24;
+}
+
+.voucher--item__discount .min + .max{
+    margin-left: 10px;
+}
+
+.voucher--item__expied{
+    font-size: 13px;
+}
+
+.voucher--box__list .voucher--box__loading .voucher--box__loading--item {
+    border: 5px solid #ed1c24;
+    border-bottom: 5px solid transparent;
+    border-top: 5px solid transparent;
+    height: 48px;
+    width: 48px;
+    border-radius: 50%;
+    animation: rotate360 1s linear infinite;
+}
+
+.voucher--box__list .voucher--box__loading{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#voucher--box .modal-dialog{
+    max-width: 600px;
+}
+
+@keyframes rotate360 {
+    to{
+        transform: rotate(360deg);
+    }
+}

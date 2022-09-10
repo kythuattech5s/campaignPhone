@@ -1,0 +1,1 @@
+<textarea name="yoast_score" class="hidden"></textarea>
